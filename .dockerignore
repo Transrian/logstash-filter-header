@@ -1,0 +1,5 @@
+/.git
+/*.gem
+Dockerfile
+*.md
+*.zip
